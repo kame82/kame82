@@ -26,7 +26,7 @@
 
 
 <h2 align="left">Tools </h2>
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=,figma,docker,aws,vercel,wordpress," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=,vscode,figma,docker,aws,vercel,wordpress," />
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
