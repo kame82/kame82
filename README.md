@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [Twitter - @username](https://twitter.com/username)
+- 📫 How to reach me: [X/Twitter - @kametyaso](https://x.com/kamteyaso)
 <br>
 
 
@@ -17,16 +17,24 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,figma,docker,aws" />
+<h2 align="left">Languages & Frameworks</h2>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=,html,css,js,ruby" />
 <br>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=,jquery,rails,sass,tailwind,nodejs" />
+<br>
+<br>
+
+
+<h2 align="left">Tools </h2>
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=,figma,docker,aws,vercel,wordpress," />
 
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
 <div align="left"> 
-  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=username&theme=vue-dark&layout=compact" />
-  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=username&theme=vue-dark&layout=compact" />
+  <img alt="Top Langs" height="170px" src="https://github-readme-stats.vercel.app/api?username=kame82&theme=gotham&layout=compact" />
+  <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kame82&theme=gotham&layout=compact" />
 </div>
 
 
