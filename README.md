@@ -9,15 +9,24 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [X/Twitter - @kametyaso](https://x.com/kamteyaso)
 <br>
 
+## 🔗 My Accounte
+
+ <div align="left"  class="icons-social" style="margin-left: 10 px;">
+  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; <a target="_blank" href="https://x.com/kamteyaso">
+	 <img src="./image/X_logo-white.png" width="40" height="40"></a>
+   &nbsp; <a target="_blank" href="https://note.com/brave_hosta949">
+    <img src="./image/note_icon.png" width="40" height="40"></a>
+   &nbsp; <a target="_blank" href="https://qiita.com/kamewo">
+    <img src="./image/qiita-icon.png" width="40" height="40"></a>
+ </div>
 
 <!-- 3. 好きな技術スタックに変更 -->
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<h2 align="left">Languages & Frameworks</h2>
+<h3 align="left">Languages & Frameworks</h3>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=,html,css,js,ruby" />
 <br>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=,jquery,rails,sass,tailwind,nodejs" />
@@ -25,7 +34,7 @@
 <br>
 
 
-<h2 align="left">Tools </h2>
+<h3 align="left">Tools </h3>
 <img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=,vscode,figma,docker,aws,vercel,wordpress," />
 
 
