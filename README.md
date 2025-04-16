@@ -14,11 +14,11 @@
 ## 🔗 My Accounte
 
  <div align="left"  class="icons-social" style="margin-left: 10 px;">
-  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; <a target="_blank" href="https://x.com/kamteyaso">
+  &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;  &nbsp; &nbsp; <a href="https://x.com/kamteyaso">
 	 <img src="./image/X_logo-white.png" width="40" height="40"></a>
-   &nbsp; <a target="_blank" href="https://note.com/brave_hosta949">
+   &nbsp; <a href="https://note.com/brave_hosta949">
     <img src="./image/note_icon.png" width="40" height="40"></a>
-   &nbsp; <a target="_blank" href="https://qiita.com/kamewo">
+   &nbsp; <a href="https://qiita.com/kamewo">
     <img src="./image/qiita-icon.png" width="40" height="40"></a>
  </div>
 
